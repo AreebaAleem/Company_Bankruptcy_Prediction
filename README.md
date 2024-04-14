@@ -41,6 +41,3 @@ The dataset used in this project was obtained from Kaggle. It contains financial
 ## Conclusion
 
 Both Random Forest and Logistic Regression models show promising results in predicting company bankruptcy. Further tuning and optimization of the models could potentially improve performance.
-
-
-Feel free to customize this README to include additional details or sections as needed for your project. Happy predicting!
